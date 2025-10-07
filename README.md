@@ -197,6 +197,8 @@ Issue creado: #1 - Enlace al issue
 
 Pull Request: #1 - Enlace al PR -->
 
+      ![Img newissue](imgs/New issue.png)
+
 ---
 
 ## Pregunta 5 (2 puntos)

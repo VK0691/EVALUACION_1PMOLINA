@@ -168,7 +168,34 @@ En la captura adjunta se ve como solo se reflejan los archivos de prueba que no 
 
 **📝 Respuesta:**
 
-<!-- Escribe aquí tu respuesta completa a la Pregunta 4 -->
+<!--Issue en GitHub: Es un elemento de seguimiento que permite reportar bugs, solicitar nuevas funcionalidades o discutir mejoras en un proyecto.
+
+Pull Request: Es una solicitud para fusionar cambios de una rama a otra, permitiendo revisión de código, discusión y pruebas antes de la integración.
+
+Diferencia y relación:
+
+Los issues identifican problemas o mejoras
+
+Los pull requests proponen soluciones específicas
+
+Se relacionan cuando un pull request referencia un issue, conectando el problema con su solución
+
+Procedimiento realizado:
+Creé un issue titulado "Respuesta a la Pregunta 4"
+
+Trabajé en la rama develop para documentar esta respuesta
+
+Realicé commit y subí los cambios al repositorio remoto
+
+Creé un pull request desde develop hacia main
+
+Vincule el PR con el issue usando "#número-del-issue"
+
+Aprobé y fusioné el pull request
+
+Issue creado: #1 - Enlace al issue
+
+Pull Request: #1 - Enlace al PR -->
 
 ---
 
